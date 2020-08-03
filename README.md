@@ -9,8 +9,7 @@ You can subscribe to the AWS Data Exchange product utilizing the automation feat
 
 ## Main Overview
 
-This release contains information on new orders of capital goods excluding aircrafts in terms of millions of dollars. Capital goods are different than consumer goods because they are used to produce other goods and services.
-
+This release contains information on new orders of non-defense capital goods - excluding aircrafts - in terms of millions of dollars. Capital goods are used to produce other goods and services.
 The included data is provided by the Federal Reserve Bank of St. Louis' FRED (Federal Reserve Economic Data) platform, which contains information on over 700,000+ series related to historical economic data. If you are interested in learning more or want to explore other datasets maintained on FRED, visit the [FRED homepage](https://fred.stlouisfed.org/).
 
 
@@ -20,7 +19,9 @@ This resource is presented in both the XLS and CSV formats. The included dataset
 
 `DATE, NEWORDER`
 
-The `NEWORDER` column represents millions of dollars at the time of the corresponding `DATE`.  
+The `NEWORDER` column represents the millions of dollars of received orders for capital goods at the time of the corresponding `DATE`.
+
+
 
 
 ## More Information
