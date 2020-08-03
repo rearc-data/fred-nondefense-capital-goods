@@ -1,1 +1,1 @@
-This release contains information on new orders of capital goods excluding aircrafts in terms of millions of dollars. Capital goods are different than consumer goods because they are used to produce other goods and services.
+This release contains information on new orders of non-defense capital goods - excluding aircrafts - in terms of millions of dollars. Capital goods are used to produce other goods and services.
