@@ -1,4 +1,4 @@
-Manufacturers New Orders: Nondefense Capital Goods EXCL. Aircraft | FRED
+Manufacturers' New Orders: Nondefense Capital Goods Excluding Aircraft
 =========================
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/fred-nondefense-capital-goods](https://github.com/rearc-data/fred-nondefense-capital-goods).
